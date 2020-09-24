@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##### 数据处理
 -   step1: 音频-视频分离，将音频从新的视频中分离出来。分离的代码在visual-audio fusion/tool.py中的youtube_splitAudio()方法，在该文件中选择该方法运行，参数1是视频的地址，参数2是分离出来的音频要存放的位置
 运行脚本：
@@ -76,3 +77,6 @@ parameter: AHLoss, 使用的hingerloss
 
 以上提到的东西主要是为了保证实验的可溯性。
 
+=======
+# yqhkjw
+>>>>>>> 163df7f0d21dfed528c8654d0eeb12992f0dcffa
