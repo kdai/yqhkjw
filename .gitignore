@@ -1,0 +1,9 @@
+*.pyc
+*.mp3
+*.mp4
+*.pkl*
+*.gz
+*DS_Store
+*.jpg
+*.pth
+*.sh
